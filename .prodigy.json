@@ -19,5 +19,7 @@
     "darken_image": 0,
     "show_bounding_box_center": false,
     "preview_bounding_boxes": false,
-    "shade_bounding_boxes": false
+    "shade_bounding_boxes": false,
+    "writing_dir": "rtl",
+    "instructions":"instructions.html"
 }
