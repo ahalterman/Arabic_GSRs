@@ -1,0 +1,23 @@
+{
+    "theme": "basic",
+    "custom_theme": {},
+    "batch_size": 10,
+    "port": 8080,
+    "host": "localhost",
+    "cors": true,
+    "db": "sqlite",
+    "db_settings": {},
+    "auto_create": true,
+    "show_stats": false,
+    "hide_meta": false,
+    "diff_style": "words",
+    "html_template": false,
+    "card_css": false,
+    "ner_manual_require_click": false,
+    "choice_style": "single",
+    "choice_auto_accept": false,
+    "darken_image": 0,
+    "show_bounding_box_center": false,
+    "preview_bounding_boxes": false,
+    "shade_bounding_boxes": false
+}
